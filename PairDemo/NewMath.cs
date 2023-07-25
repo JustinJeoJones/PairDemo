@@ -18,7 +18,7 @@ namespace PairDemo
         }
         public static double Multipler(double x, double y)
         {
-            return x + y;
+            return x * y;
         }
         public static double Divider(double x, double y)
         {
